@@ -1,0 +1,8 @@
+{
+    "plugins": ["transform-runtime",
+        ["component", [
+            {"library": "mint-ui",
+            "style": true}
+        ]]
+    ]
+}
